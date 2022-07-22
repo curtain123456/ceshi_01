@@ -1,0 +1,7 @@
+
+# 各种安装包
+
+loguru==0.6.0
+requests==2.27.1
+cacheout=0.13.1
+PyMysql==1.0.2
